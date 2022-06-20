@@ -11,6 +11,7 @@ namespace GitBash1
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome");
+            Console.WriteLine("Child");
         }
     }
 }
